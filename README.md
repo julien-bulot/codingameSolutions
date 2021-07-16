@@ -5,3 +5,4 @@ CodinGameSolutions contains my PHP and Javascript solutions to [CodinGame](https
 * Easy
   * [Onboarding](https://www.codingame.com/training/easy/onboarding) | 100% | [PHP](easy/onboarding/onboarding.php), [Javascript](easy/onboarding/onboarding.js)
   * [Temperatures](https://www.codingame.com/training/easy/temperatures) | 100% | [PHP](easy/temperatures/temperatures.php), [Javascript](easy/temperatures/temperatures.js)
+  * [ASCII Art](https://www.codingame.com/training/easy/asciiArt) | 100% | [PHP](easy/asciiArt/asciiArt.php), [Javascript](easy/asciiArt/asciiArt.js)
