@@ -10,3 +10,4 @@ CodinGameSolutions contains my PHP and Javascript solutions to [CodinGame](https
 
 * Medium
   * [Shadows of the Knight - Episode 1](https://www.codingame.com/training/medium/shadows-of-the-knight-episode-1) | 100% | [PHP](medium/shadowsOfTheKnight-Episode1/shadowsOfTheKnight-Episode1.php), [Javascript](medium/shadowsOfTheKnight-Episode1/shadowsOfTheKnight-Episode1.js)
+  * [There is no Spoon - Episode 1](https://www.codingame.com/training/medium/there-is-no-spoon-episode-1) | 100% | [PHP](medium/thereIsNoSpoon-Episode1/thereIsNoSpoon-Episode1.php), [Javascript](medium/thereIsNoSpoon-Episode1/thereIsNoSpoon-Episode1.js)
