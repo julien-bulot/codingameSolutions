@@ -7,6 +7,7 @@ CodinGameSolutions contains my PHP and Javascript solutions to [CodinGame](https
   * [Temperatures](https://www.codingame.com/training/easy/temperatures) | 100% | [PHP](easy/temperatures/temperatures.php), [Javascript](easy/temperatures/temperatures.js)
   * [ASCII Art](https://www.codingame.com/training/easy/asciiArt) | 100% | [PHP](easy/asciiArt/asciiArt.php), [Javascript](easy/asciiArt/asciiArt.js)
   * [Chuck Norris](https://www.codingame.com/training/easy/chuck-norris) | 100% | [PHP](easy/chuckNorris/chuckNorris.php), [Javascript](easy/chuckNorris/chuckNorris.js)
+  * [Custom Game of Life](https://www.codingame.com/training/easy/custom-game-of-life) | 100% | [PHP](easy/customGameOfLife/customGameOfLife.php), [Javascript](easy/customGameOfLife/customGameOfLife.js)
 
 * Medium
   * [Shadows of the Knight - Episode 1](https://www.codingame.com/training/medium/shadows-of-the-knight-episode-1) | 100% | [PHP](medium/shadowsOfTheKnight-Episode1/shadowsOfTheKnight-Episode1.php), [Javascript](medium/shadowsOfTheKnight-Episode1/shadowsOfTheKnight-Episode1.js)
